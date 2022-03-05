@@ -97,4 +97,9 @@
     height: 275px;
     margin-left: initial;
   }
+}@font-face {
+  font-family: 'Nunito-Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Nunito-Bold.ttf);
 }
